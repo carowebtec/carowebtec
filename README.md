@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carowebtec
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning Symfony
+- 👀 I’m interested in PHP and Dart.
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me office@carolineterzer.at
 
